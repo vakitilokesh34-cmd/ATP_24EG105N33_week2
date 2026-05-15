@@ -1,14 +1,4 @@
-# Real-Time Code Editor: JavaScript Fundamentals
 
-Welcome to this neat little collection of JavaScript examples! Whether you're just starting out or need a quick refresher on how functions and arrays behave in JS, you're in the right place. 
-
-I've put this together to help you understand the core "mechanics" of JavaScript in a friendly, conversational way.
-
----
-
-## What's Inside?
-
-Here’s a quick tour of the files in this project:
 
 ### 1. `fun.js` (The Function Playground)
 This is where we play with different ways to write functions. 
